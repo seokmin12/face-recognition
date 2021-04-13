@@ -7,6 +7,11 @@
 > 3. Open cv나 haarcascade를 이용해서 얼굴 부분만 크롭한다.
 > 4. 크롭한 이미지를 저장한다.
 ***
+### 이미지 크롤링 코드는 selenium webdriver를 이용하기 때문에 chromedriver를 다운 받아야 한다.
+```py
+driver = webdriver.Chrome('자신의 chromedriver 경로')
+```
+***
 ### 파일들의 경로를 각자 자신의 경로로 바꾸어야 한다.
 ```py
 count_num_path = '자신의 파일 경로'
