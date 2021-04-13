@@ -15,7 +15,7 @@ count_num_path = '자신의 파일 경로'
 ## Example:
 |원본|결과|
 |--|--|
-|![원본](https://ibb.co/9w27bnj)|![결과](https://ibb.co/SdgPn4x)|
+|![원본](https://i.imgur.com/DXSHFGr.jpg)|![결과](https://i.imgur.com/tiSOJg1.jpg)|
 ***
 ## 후기 ✌️
 ### teachable machine을 이용해서 학습을 시킨 작업이었는데 개인적으로 머신러닝에 입문을 하는 사람이라면 꼭 추천하고 싶은 사이트였다.
